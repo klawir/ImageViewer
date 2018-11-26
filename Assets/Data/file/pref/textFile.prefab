@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1072762698492888}
+  m_IsPrefabParent: 1
+--- !u!1 &1072762698492888
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224847744966568754}
+  - component: {fileID: 222567224625718670}
+  - component: {fileID: 114125009955994740}
+  m_Layer: 5
+  m_Name: textFile
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1580677947012676
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224764257618790142}
+  - component: {fileID: 222462221541254470}
+  - component: {fileID: 114080649910822778}
+  m_Layer: 5
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &114080649910822778
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1580677947012676}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "https://www.youtube.com/watch?v=yWHOhff1wEE&list=PLrDYMy2ofFVZPVFkvz_WSWLPO9z8JSGkB\r\nhttps://www.youtube.com/watch?v=8i_TRgN4CCc&list=PLrDYMy2ofFVaxKc4nJC6ZlNU0ycgiQkTL\r\nhttps://www.youtube.com/watch?v=IxTpGXDEfC8&list=LLsqyoQ5Z2QnWfLZ7GeIT1bQ\r\nhttps://www.youtube.com/channel/UCpg0v5bIPfqt3arHCbmOQ7g/videos\r\nhttps://www.youtube.com/watch?v=A_vw9CjITJQ&list=PL530drgYEcfs__Q2xKvnSgUrqxvjTQ_gN\r\nhttps://www.youtube.com/watch?v=9P-lXPawQWU&list=PL0pnNCiKEzWZXCQSZ9AMW58VOkGyTVCQC\r\nhttps://www.youtube.com/watch?v=dfDv537TBmk&list=PL0pnNCiKEzWbcaaCBK4R-FgpMnJsKivA5\r\nhttps://www.youtube.com/watch?v=I74lRVQYd_E&list=PL0pnNCiKEzWZR3GHjCBRpQuxqu80peZn6\r\nhttps://www.youtube.com/watch?v=_W235UMufSw&list=PL0pnNCiKEzWbhXlhkfb5blTVrYHs1s14-\r\nhttps://www.youtube.com/watch?v=u4fKDuoR4kY&list=PL0pnNCiKEzWboT-MKKhhw8sCwqWNyXzkt\r\nhttps://www.youtube.com/watch?v=Oi0BqZwiJsI&list=PL0pnNCiKEzWbPEcd5ISCwVg-aa6licOUR\r\nhttps://www.youtube.com/user/PortalSpryciarze/videos\r\nhttps://www.youtube.com/watch?v=s6UlWMkEOGU&list=PL07TSwd5SmKbg8zrM3fAIWAEg2VVh6SYB\r\nhttps://www.youtube.com/watch?v=Yqvf6Gs9NPA&list=PL07TSwd5SmKZtEUvJ-0k3TNsMh9iO21HC\r\nhttps://www.youtube.com/watch?v=o24mNzuTTso&list=PLDB8E3E43A7293E6A\r\nhttps://www.youtube.com/watch?v=uHhRZ5Pzy7I&list=PLB6FAE293B6BDDFD4\r\nhttps://www.youtube.com/watch?v=0Nm6GSHHFJk&list=PL07TSwd5SmKamXUJYmohS-GJ1rXVvlwqO\r\nhttps://www.youtube.com/user/TheMrJasp\r\nhttps://www.youtube.com/watch?v=U0OpNUz3FW4&list=PLMueAYLYpZbYfVyeCTvJmCJmAq05BIsbj\r\nhttps://www.youtube.com/watch?v=2c63ICqJ3PQ&list=PLwrhVA7ELLV6sOuuIf9iIR_sBnpVWUvO-\r\nhttps://www.youtube.com/watch?v=m2RV0uopdCk&list=PLUOQSzY5KPJV_AJS_ZR0rtj-HEXKFGAOI\r\nhttps://www.youtube.com/user/FranksHelpdesk/videos\r\n\r\n"
+--- !u!114 &114125009955994740
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1072762698492888}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &222462221541254470
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1580677947012676}
+--- !u!222 &222567224625718670
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1072762698492888}
+--- !u!224 &224764257618790142
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1580677947012676}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224847744966568754}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 670, y: 374.9}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224847744966568754
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1072762698492888}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224764257618790142}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 670, y: 374.9}
+  m_Pivot: {x: 0.5, y: 0.5}
