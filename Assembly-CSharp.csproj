@@ -60,6 +60,8 @@
      <Compile Include="Assets\Data\Solar system\CelestialBody.cs" />
      <Compile Include="Assets\Data\Solar system\CelestialBodySetup.cs" />
      <Compile Include="Assets\Data\Solar system\SetupSize.cs" />
+     <None Include="Assets\Resources\streaming assets\text1.txt" />
+     <None Include="Assets\Resources\streaming assets\text2.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
