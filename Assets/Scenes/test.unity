@@ -4002,9 +4002,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54cdfa31bb80fc44fb118a967939f142, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  file: {fileID: 1072762698492888, guid: 07e6c03d810e3b445be0c9f9b93eda5d, type: 2}
   textFile: {fileID: 114125009955994740, guid: 1a059896b7fa44c4aa3a489ee1ba82ab, type: 2}
   empty: {fileID: 1764756728120848, guid: 15272788fe0a6ed4c91f03de428a17cf, type: 2}
+  file: {fileID: 1072762698492888, guid: 07e6c03d810e3b445be0c9f9b93eda5d, type: 2}
 --- !u!1 &644124795
 GameObject:
   m_ObjectHideFlags: 0
