@@ -8,8 +8,8 @@ public class Files : MonoBehaviour
     public GameObject empty;
     public GameObject file;
 
-    private IFile photo;
-    private IFile text;
+    private File photo;
+    private File text;
     
     void Start ()
     {

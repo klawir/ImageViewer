@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class TextFile : File, IFile
+public class TextFile : File
 {
     private Text textInFile;
     private Image textFile;
@@ -24,7 +24,7 @@ public class TextFile : File, IFile
         textFileRectInside = textFile.gameObject.transform.GetChild(0).gameObject.GetComponent<RectTransform>();
     }
 
-    public void Load()
+    public override void Load()
     {
         foreach (TextAsset t in files)
         {
